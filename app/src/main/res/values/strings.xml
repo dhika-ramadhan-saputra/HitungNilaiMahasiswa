@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Menghitung Nilai Mahasiswa</string>
+    <string name="textView">Universitas Muhammadiyah Purwokerto</string>
+    <string name="ednama">Nama Mahasiswa</string>
+    <string name="edtugas">Nilai Tugas</string>
+    <string name="edhadir">Nilai Kehadiran</string>
+    <string name="eduts">Nilai UTS</string>
+    <string name="eduas">Nilai UAS</string>
+    <string name="btnhitung">H I T U N G</string>
+    <string name="textView2">Nilai Akhir</string>
+    <string name="textView3">Nilai Huruf</string>
+</resources>
